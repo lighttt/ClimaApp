@@ -1,4 +1,7 @@
-# clima_app
+# Skeleton Code for Clima App
+
+<img src="images/city_background.jpg" width="300">
+
 
 A new Flutter application.
 
